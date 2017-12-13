@@ -11,7 +11,7 @@ awesome_function_3 <- function(argument1) {
 }
 
 awesome_function_4 <- function(argument1) {
-    _______
+    print(Oliver)
 }
 #what makes this an awesome function?
 awesome_function_5 <- function(argument1) {
